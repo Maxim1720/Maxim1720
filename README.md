@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring" />
   <img src="https://skillicons.dev/icons?i=python,fastapi" />
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
 </div>
 
 
